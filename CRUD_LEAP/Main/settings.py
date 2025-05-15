@@ -70,7 +70,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'CRUD_LEAP.wsgi.application'
+WSGI_APPLICATION = 'Main.wsgi.application'
 
 
 # Database
